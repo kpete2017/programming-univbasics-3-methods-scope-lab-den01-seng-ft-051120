@@ -9,6 +9,7 @@ end
 
 def link
   puts "It's Dangerous To Go Alone!"
+end
 
 def all_phrases
   mario
